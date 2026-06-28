@@ -36,7 +36,7 @@ Thyroid Disease Prediction is a machine learning project developed to predict th
 
 ## Project Files
 
-* `Thyroid_Disease_Prediction.ipynb` – Data preprocessing, EDA, feature engineering, model training, and evaluation.
+* `cleaned_thyroid_dataset.ipynb` – Data preprocessing, EDA, feature engineering, model training, and evaluation.
 * `cleaning.py` *(if available)* – Data preprocessing script.
 * `frontend.py` *(if available)* – Prediction interface.
 * `thyroid_dataset.csv` – Dataset used for training and testing.
